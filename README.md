@@ -1,2 +1,1 @@
-# tindog
-I done this to practice CSS and bootstrap
+TinDog Starting Files

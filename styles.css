@@ -1,0 +1,169 @@
+
+.body
+{
+
+  font-family: serif;
+
+}
+h2
+{
+  font-family: fantasy;
+  font-weight: bolder;
+  font-size: 3em;
+
+}
+.coloured-bg
+{
+  background-color: #ff4c68 !important;
+  color: white;
+  text-align: center !important;
+}
+.white-bg
+{
+background-color: #fff !important;
+  text-align: center !important;
+}
+.container-fluid
+{
+  padding: 7% 17% !important;
+}
+
+
+#title .container-fluid
+{
+  padding: 7% 18% 9% !important;
+  text-align: center;
+
+}
+.navbar .navbar-brand
+{
+  font-family: Lobster;
+  font-size: 3.5rem;
+  font-weight:bolder;
+  padding-left: 10px;
+}
+.navbar
+{
+  padding: 0 !important;
+}
+.nav-item
+{
+  font-family: fantasy;
+  padding : 0 2.5rem;
+  font-size: 1rem;
+}
+
+.row
+{
+  padding-top: 5%;
+
+
+}
+
+.rotate
+{
+  transform:rotate(10deg);
+text-align: center;
+align-items: center;
+}
+
+
+
+.dwlbtn
+{
+  margin: 5% 3% 5% 0;
+}
+
+.titleimage
+{
+  width: 60% ;
+
+
+position: absolute;
+  left: 35%;
+
+}
+@media (max-width:1028px) {
+  .titleimage
+  {
+    position: static;
+
+    transform: rotate(-20deg);
+  }
+  #title
+  {
+    text-align: center;
+  }
+}
+
+#features
+{
+
+  margin-bottom: 5%;
+
+position: relative;
+z-index: 1;
+
+}
+
+.feature
+{
+font-family:Arial;
+font-weight: bolder;
+font-size: 1.75em;
+color: #ff4c68;
+
+}
+.fea-p
+{
+  color: #c4b6b6;
+  font-size: 1em;
+  padding-left: 12% !important;
+  padding-right:12% !important;
+}
+
+
+
+.testimonial-image
+{
+  width: 10%;
+  border-radius: 100%;
+  margin:20px;
+}
+
+.press-image
+{
+  width:20%;
+  margin : 20px 20px 50px;
+}
+
+.pricing-coloum
+{
+  text-align: center;
+  padding: 3% 2%;
+}
+.pricing
+{
+  color: #ff4c68;
+  text-align: center;
+  font-family:Arial;
+  font-weight: bolder;
+  font-size: 1.75em;
+}
+.pricing-p
+{
+  color: #c4b6b6;
+  font-size: 1em;
+  text-align: center;
+}
+.cards-header
+{
+  color:  #ff4c68;
+  font-weight: bolder;
+
+}
+
+.footericons
+{
+  padding:0 1%;
+}
